@@ -2,7 +2,6 @@ import { motion, useScroll, useTransform } from "framer-motion";
 import React, { useRef } from "react";
 import { Tooltip as ReactTooltip } from "react-tooltip";
 import {
-  skillsDataCMS,
   skillsDataDesign,
   skillsDataDevOps,
   skillsDataWeb,
