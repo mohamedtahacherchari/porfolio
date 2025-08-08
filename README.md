@@ -3,7 +3,7 @@
 A modern and responsive portfolio website built with **React**, **Tailwind CSS**, and **TypeScript**.  
 This project showcases my skills and projects as a full-stack developer. The contact form functionality is powered by a backend developed using **Node.js** and **Express**.
 
-<img src="./screenshot.png" alt="Screenshot" width="1080"/>
+
 
 ---
 
