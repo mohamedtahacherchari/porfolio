@@ -600,8 +600,8 @@ export const navLinks = [
 
 export const FooterLinks = [
   {
-    fr: "© 2025 Heni LOUDHAIEF | Tous droits réservés",
-    en: "© 2025 Heni LOUDHAIEF | All Rights Reserved",
+    fr: "© 2025  Mohamed Taha Cherchari | Tous droits réservés",
+    en: "© 2025 Mohamed Taha Cherchari | All Rights Reserved",
     hash: "#",
     data: null, // No specific component for this
   },
